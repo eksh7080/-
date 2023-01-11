@@ -76,7 +76,7 @@
 1. 레포지토리를 클론하고자 하는 디렉토리에서 아래 명령어를 수행
 
 ```bash
-git clone <레포지토리 주소>
+git clone https://github.com/eksh7080/o-jak-kku.git
 ```
 
 
