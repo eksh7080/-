@@ -15,47 +15,17 @@
 
 <br />
 
-### 1-1. API 문서
+### 1-1. 데모 영상
 
-### https://documenter.getpostman.com/view/23952739/2s847JrX6f
 
-<br>
-
-### 1-2. 데모 영상
-
-=== 준비 중 입니다. ===
-<!--
-<details><summary>사용자 회원가입, 로그인</summary>
-
-![image](https://user-images.githubusercontent.com/91174156/172159634-1e105633-9948-464e-a540-5429200a1353.gif)
-
-</details>
-
-<details><summary>카테고리 추가 및 반영</summary>
-
-추후 관련 영상을 삽입하세요 (하기 2가지 방법 가능)
-1. 화면녹화 -> 유튜브 업로드 -> 유튜브 링크 삽입  
-2. 화면움짤녹화 -> 움짤삽입 (https://www.screentogif.com/ 활용가능)
-   
-</details>
--->
 
 
 <br />
 
-### 1-3. 페이지 별 화면
+### 1-2. 페이지 별 화면
 
-=== 준비 중 입니다. ===
-<!--
-|  |  |
-| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------|
-| ![image](https://i.ibb.co/jyxjcd3/image.png) | ![image](https://i.ibb.co/Q860RKz/image.png) |
-|    메인 페이지                                |      회원가입 화면                            |
-| ![image](https://i.ibb.co/RpYN379/image.png) |                                         |
-|    로그인 페이지                              |     앞으로 추가할 페이지                         |
 
-<br />
--->
+
 
 ## 2. 기술 스택
 
@@ -68,14 +38,13 @@
 - **Vanilla javascript**, html, css (**Bulma css**)
 - Font-awesome 
 - Daum 도로명 주소 api 
-- 이외
 
 ### 2-2. 백엔드 
 
 - **Express** (nodemon, babel-node로 실행됩니다.)
 - Mongodb, Mongoose
 - cors
-- 이외
+
 
 
 
