@@ -15,47 +15,17 @@
 
 <br />
 
-### 1-1. API 문서
+### 1-1. 데모 영상
 
-### https://documenter.getpostman.com/view/23952739/2s847JrX6f
 
-<br>
-
-### 1-2. 데모 영상
-
-=== 준비 중 입니다. ===
-<!--
-<details><summary>사용자 회원가입, 로그인</summary>
-
-![image](https://user-images.githubusercontent.com/91174156/172159634-1e105633-9948-464e-a540-5429200a1353.gif)
-
-</details>
-
-<details><summary>카테고리 추가 및 반영</summary>
-
-추후 관련 영상을 삽입하세요 (하기 2가지 방법 가능)
-1. 화면녹화 -> 유튜브 업로드 -> 유튜브 링크 삽입  
-2. 화면움짤녹화 -> 움짤삽입 (https://www.screentogif.com/ 활용가능)
-   
-</details>
--->
 
 
 <br />
 
-### 1-3. 페이지 별 화면
+### 1-2. 페이지 별 화면
 
-=== 준비 중 입니다. ===
-<!--
-|  |  |
-| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------|
-| ![image](https://i.ibb.co/jyxjcd3/image.png) | ![image](https://i.ibb.co/Q860RKz/image.png) |
-|    메인 페이지                                |      회원가입 화면                            |
-| ![image](https://i.ibb.co/RpYN379/image.png) |                                         |
-|    로그인 페이지                              |     앞으로 추가할 페이지                         |
 
-<br />
--->
+
 
 ## 2. 기술 스택
 
@@ -68,14 +38,13 @@
 - **Vanilla javascript**, html, css (**Bulma css**)
 - Font-awesome 
 - Daum 도로명 주소 api 
-- 이외
 
 ### 2-2. 백엔드 
 
 - **Express** (nodemon, babel-node로 실행됩니다.)
 - Mongodb, Mongoose
 - cors
-- 이외
+
 
 
 
@@ -107,7 +76,7 @@
 1. 레포지토리를 클론하고자 하는 디렉토리에서 아래 명령어를 수행
 
 ```bash
-git clone <레포지토리 주소>
+git clone https://github.com/eksh7080/o-jak-kku.git
 ```
 
 
@@ -141,30 +110,3 @@ JWT_SECERT_KEY=<랜덤 문자열>
 npm start
 ```
 
-<br>
-
-## 6. 버전
-### 0.0.1
-
-<br>
-
-## 7. FAQ
-<details><summary>1. 배포된 페이지는 어디에서 확인할 수 있나요?</summary>
-
-  <p>
-    프로젝트 기본 코드는 따로 배포하지 않았습니다, 레포지토리를 클론하여 직접 실행해보세요.
-  </p>
-
-</details>
-<details><summary>2. env 파일이 보이지 않습니다.</summary>
-
-  <p>
-    해당 파일은 직접 만들어서 코드를 작성해야 합니다, DB를 비롯한 서비스의 계정 정보는 <b>절대로</b> Git에 함부로 공유하면 안되기 때문에 유의 바랍니다.
-  </p>
-
-</details>
-
----
-
-본 프로젝트에서 제공하는 모든 코드 등의는 저작권법에 의해 보호받는 ㈜엘리스의 자산이며, 무단 사용 및 도용, 복제 및 배포를 금합니다.
-Copyright 2022 엘리스 Inc. All rights reserved.
